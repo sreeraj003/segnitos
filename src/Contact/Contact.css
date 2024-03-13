@@ -1,0 +1,7 @@
+.message{
+    height: 15vh!important;
+}
+.contactHead{
+    display: flex;
+    justify-content: center;
+}

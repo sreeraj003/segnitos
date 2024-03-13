@@ -1,0 +1,16 @@
+.home{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 70vw;
+    margin-top: 10vh;
+    margin-bottom: 10vh;
+}
+
+.home img{
+    width: 50%;
+    border-radius: 20px;
+    margin-bottom: 5vh;
+    object-fit: contain;
+}

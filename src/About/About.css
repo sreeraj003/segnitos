@@ -1,0 +1,13 @@
+.about{
+    display: flex;
+    padding-right: 5vh;
+    padding-top: 3vw;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+
+}
+.about p{
+    word-spacing: 3px;    
+}

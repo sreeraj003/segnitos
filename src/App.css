@@ -1,0 +1,14 @@
+.inner{
+    margin-top:10vh ;
+    min-height: 80vh;
+    padding-left: 0%;
+    margin-left: 0;
+}
+.inside{
+    padding: 0;
+}
+@media  screen and (max-width:500px) {
+    .inner{
+        padding-right: 20px;
+    }
+}
